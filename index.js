@@ -164,4 +164,4 @@ client.on('ready', () => {
   
   });
 
-client.login(NTIwOTk4ODM1MzQzMDY1MTA5.Du2DUQ.lMK0eJvrQlxbUP2wxFIacyDktEo);
+client.login(process.env.BOT_TOKEN);
